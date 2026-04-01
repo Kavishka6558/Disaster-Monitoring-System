@@ -1,4 +1,4 @@
-# 🌊 Natural Disasters and Accidents Monitoring System — Sri Lanka
+# 🌊 A Social Media Analytics Approch for Accident and Disaster Monitoring Using AI-Based Relevence Filtering, Sentiment Analysis, and Geopatial Visulization
 
 A full-stack, AI-powered disaster monitoring system that processes trilingual (Sinhala, Tamil, English) social media data in real-time using a **12-stage AI pipeline**.
 
